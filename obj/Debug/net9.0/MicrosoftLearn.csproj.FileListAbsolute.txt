@@ -1,0 +1,14 @@
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/bin/Debug/net9.0/MicrosoftLearn
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/bin/Debug/net9.0/MicrosoftLearn.deps.json
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/bin/Debug/net9.0/MicrosoftLearn.runtimeconfig.json
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/bin/Debug/net9.0/MicrosoftLearn.dll
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/bin/Debug/net9.0/MicrosoftLearn.pdb
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.AssemblyInfoInputs.cache
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.AssemblyInfo.cs
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.csproj.CoreCompileInputs.cache
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.dll
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/refint/MicrosoftLearn.dll
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.pdb
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.genruntimeconfig.cache
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/ref/MicrosoftLearn.dll

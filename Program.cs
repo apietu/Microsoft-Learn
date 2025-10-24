@@ -1,0 +1,1 @@
+﻿Console.WriteLine("I just began a new journey!");
