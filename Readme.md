@@ -47,15 +47,15 @@ This repository documents my learning progress, notes, and hands-on projects as 
 
 ### 📈 Progress Tracker
 
-| Module | Title | Status | Date Completed |
-| :----- | :---- | :----- | :-------------- |
-| 1 | Write Your First Code Using C# | ✅ Completed | *(add your date)* |
-| 2 | Create and Run Simple C# Console Applications | ⏳ In Progress | |
-| 3 | Add Logic to C# Console Applications | 🔜 Upcoming | |
-| 4 | Work with Variable Data in C# Console Applications | 🔜 Upcoming | |
-| 5 | Create Methods in C# Console Applications | 🔜 Upcoming | |
-| 6 | Debug C# Console Applications | 🔜 Upcoming | |
-| 7 | Foundational C# Certification Exam | 🔜 Upcoming | |
+| Module | Title | Status |
+| :----- | :---- | :----- |
+| 1 | Write Your First Code Using C# | ✅ Completed |
+| 2 | Create and Run Simple C# Console Applications | ⏳ In Progress |
+| 3 | Add Logic to C# Console Applications | 🔜 Upcoming |
+| 4 | Work with Variable Data in C# Console Applications | 🔜 Upcoming |
+| 5 | Create Methods in C# Console Applications | 🔜 Upcoming |
+| 6 | Debug C# Console Applications | 🔜 Upcoming |
+| 7 | Foundational C# Certification Exam | 🔜 Upcoming |
 
 ---
 
