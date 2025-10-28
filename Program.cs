@@ -1,5 +1,6 @@
-﻿//My first C# program
+﻿Console.WriteLine("Welcome!");
 
-//Print instructions on the command line
+Calculator calc = new Calculator();
+int result = calc.Add(3, 7);
 
-Console.WriteLine("I just began a new journey!");
+Console.WriteLine($"The result is {result}");

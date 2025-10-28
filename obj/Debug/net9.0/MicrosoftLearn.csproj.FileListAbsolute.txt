@@ -12,3 +12,4 @@
 /Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.pdb
 /Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.genruntimeconfig.cache
 /Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/ref/MicrosoftLearn.dll
+/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/Debug/net9.0/MicrosoftLearn.sourcelink.json
