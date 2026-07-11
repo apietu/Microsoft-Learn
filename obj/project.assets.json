@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net9.0": {}
   },
@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/Users/selase/.nuget/packages/": {}
+    "C:\\Users\\ZERO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/MicrosoftLearn.csproj",
+      "projectUniqueName": "C:\\Users\\ZERO\\Documents\\Workspace\\C#_Projects\\Microsoft-Learn\\MicrosoftLearn.csproj",
       "projectName": "MicrosoftLearn",
-      "projectPath": "/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/MicrosoftLearn.csproj",
-      "packagesPath": "/Users/selase/.nuget/packages/",
-      "outputPath": "/Users/selase/Desktop/Workspace/C#/MicrosoftLearn/obj/",
+      "projectPath": "C:\\Users\\ZERO\\Documents\\Workspace\\C#_Projects\\Microsoft-Learn\\MicrosoftLearn.csproj",
+      "packagesPath": "C:\\Users\\ZERO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ZERO\\Documents\\Workspace\\C#_Projects\\Microsoft-Learn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/selase/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ZERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -30,6 +30,7 @@
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "projectReferences": {}
         }
@@ -44,10 +45,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.300"
     },
     "frameworks": {
       "net9.0": {
+        "framework": "net9.0",
         "targetAlias": "net9.0",
         "imports": [
           "net461",
@@ -65,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.306/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
