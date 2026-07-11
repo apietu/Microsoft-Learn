@@ -1,0 +1,15 @@
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.exe
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.deps.json
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.runtimeconfig.json
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.dll
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.pdb
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.AssemblyInfoInputs.cache
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.AssemblyInfo.cs
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.csproj.CoreCompileInputs.cache
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.sourcelink.json
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.dll
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\refint\MicrosoftLearn.dll
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.pdb
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.genruntimeconfig.cache
+C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\ref\MicrosoftLearn.dll
