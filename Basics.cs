@@ -13,12 +13,30 @@ Console.Write("selase."); //This command prints out outputs on the same line.
 //A "literal Character" is use to print a single aphanumeric character to the output
 
 Console.WriteLine('B');// writing this "Console.WriteLine('BSE')" will produce an error
-string message = 'C';
+char message = 'C';
 Console.WriteLine(message);
 
-//A "literal int"
+//A "literal int" outputs whole numeric nubers
+int wholeNumber = 21;
+Console.WriteLine(wholeNumber);
 
+//"Floating Point Literals" outputs decimal numbers
+//C# supports up to three data types to represent decimals. (Float, Double, and Decimal)
 
-Random dice = new Random();
-int roll = dice.Next(1, 7);
-Console.WriteLine("You rolled a " + roll); 
+//Floats supports 6-9 digits. to create a float value append the letter "f"
+float myFloat = 3.1415927f;
+Console.WriteLine("Float: " + myFloat);
+
+//Double supports 15-17 digits. Double is the default for decimal numbers, so no suffix is required.
+double myDouble = 3.141592653589793;
+Console.WriteLine("Double: " + myDouble);
+
+//Decimal supports 28-29 digits. Decimal values end with m.
+decimal myDecimal = 3.1415926535897932384626433833m;
+Console.WriteLine("Decimal: " + myDecimal);
+
+//A "Boolean Literal" outputs a true or false statement.
+bool isStudent = false;
+bool isEmployed = true;
+
+Console.WriteLine(isStudent + "\n" + isEmployed);
