@@ -13,3 +13,18 @@ C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\
 C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.pdb
 C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.genruntimeconfig.cache
 C:\Users\ZERO\Documents\Workspace\C#_Projects\Microsoft-Learn\obj\Debug\net10.0\ref\MicrosoftLearn.dll
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.exe
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.deps.json
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.runtimeconfig.json
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.dll
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\bin\Debug\net10.0\MicrosoftLearn.pdb
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.AssemblyInfoInputs.cache
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.AssemblyInfo.cs
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.csproj.CoreCompileInputs.cache
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.sourcelink.json
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.dll
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\refint\MicrosoftLearn.dll
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.pdb
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\MicrosoftLearn.genruntimeconfig.cache
+C:\Users\selase\Documents\Workspace\C# Projects\Microsoft-Learn\obj\Debug\net10.0\ref\MicrosoftLearn.dll

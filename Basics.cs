@@ -40,3 +40,5 @@ bool isStudent = false;
 bool isEmployed = true;
 
 Console.WriteLine(isStudent + "\n" + isEmployed);
+
+//Variables

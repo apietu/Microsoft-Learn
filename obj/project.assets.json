@@ -8,19 +8,19 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ZERO\\.nuget\\packages\\": {}
+    "C:\\Users\\selase\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ZERO\\Documents\\Workspace\\C#_Projects\\Microsoft-Learn\\MicrosoftLearn.csproj",
+      "projectUniqueName": "C:\\Users\\selase\\Documents\\Workspace\\C# Projects\\Microsoft-Learn\\MicrosoftLearn.csproj",
       "projectName": "MicrosoftLearn",
-      "projectPath": "c:\\Users\\ZERO\\Documents\\Workspace\\C#_Projects\\Microsoft-Learn\\MicrosoftLearn.csproj",
-      "packagesPath": "C:\\Users\\ZERO\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ZERO\\Documents\\Workspace\\C#_Projects\\Microsoft-Learn\\obj\\",
+      "projectPath": "C:\\Users\\selase\\Documents\\Workspace\\C# Projects\\Microsoft-Learn\\MicrosoftLearn.csproj",
+      "packagesPath": "C:\\Users\\selase\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\selase\\Documents\\Workspace\\C# Projects\\Microsoft-Learn\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ZERO\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\selase\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
